@@ -1,4 +1,4 @@
-# Simple Julia Scripts to vizualize meteor trajectories
+# Simple Julia Scripts to visualize meteor trajectories
 
 Developed by Etienne Gavazzi and Juha Vierinen (2024). 
 
